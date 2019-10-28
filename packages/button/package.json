@@ -1,5 +1,5 @@
 {
-      "name": "@testlerna/button",
+      "name": "test-lerna-button",
       "version": "1.2.1",
       "main": "lib/index.js",
       "module": "src/index.js",
@@ -16,5 +16,5 @@
       "publishConfig": {
             "access": "public"
       },
-      "gitHead": "c008a3c292a2d03c639221e1cbf926b2deab54f2"
+      "gitHead": "043019543b045cf47bfdb30c7f909b33a2c1d5be"
 }
