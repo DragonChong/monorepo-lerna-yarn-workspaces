@@ -1,13 +1,13 @@
 {
       "name": "app",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "private": true,
       "dependencies": {
             "react": "16.8.5",
             "react-dom": "16.8.5"
       },
       "devDependencies": {
-            "@dragonchong/test-lerna-button": "1.2.4",
+            "@dragonchong/test-lerna-button": "^1.2.5",
             "react-scripts": "1.1.4"
       },
       "peerDependencies": {
