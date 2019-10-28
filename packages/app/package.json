@@ -1,0 +1,24 @@
+{
+      "name": "app",
+      "version": "0.1.0",
+      "private": true,
+      "dependencies": {
+            "react": "16.8.5",
+            "react-dom": "16.8.5"
+      },
+      "devDependencies": {
+            "react-scripts": "1.1.4",
+            "@dragonchong/test-lerna-input": "1.2.2",
+            "@dragonchong/test-lerna-button": "1.2.2"
+      },
+      "peerDependencies": {
+            "react": "^15.0.0 || ^16.0.0",
+            "react-dom": "^15.0.0 || ^16.0.0"
+      },
+      "scripts": {
+            "start": "react-scripts start",
+            "build": "react-scripts build",
+            "test": "react-scripts test --env=jsdom",
+            "eject": "react-scripts eject"
+      }
+}

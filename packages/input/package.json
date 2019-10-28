@@ -1,5 +1,5 @@
 {
-      "name": "test-lerna-input",
+      "name": "@dragonchong/test-lerna-input",
       "version": "1.2.2",
       "main": "lib/index.js",
       "module": "src/index.js",
