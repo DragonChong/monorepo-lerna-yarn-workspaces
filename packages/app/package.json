@@ -7,8 +7,8 @@
             "react-dom": "16.8.5"
       },
       "devDependencies": {
-            "@dragonchong/test-lerna-button": "^1.2.3",
-            "@dragonchong/test-lerna-input": "^1.2.3",
+            "@dragonchong/test-lerna-button": "1.2.2",
+            "@dragonchong/test-lerna-input": "1.2.2",
             "react-scripts": "1.1.4"
       },
       "peerDependencies": {

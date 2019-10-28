@@ -13856,6 +13856,24 @@ test-exclude@^4.2.1:
     read-pkg-up "^1.0.1"
     require-main-filename "^1.0.1"
 
+test-lerna-button@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/test-lerna-button/-/test-lerna-button-1.2.2.tgz#19f24fca7b366e17ee505df4c9a3643bea8637eb"
+  integrity sha512-Us05XrUVCkmOCDosXh6zaeqepOl7AVDCVRUOUcXvopglqSP5jB2Pg58sZzndOhzhfSyB38WARO2EbJRbUE+rUw==
+  dependencies:
+    react "16.8.5"
+    react-dom "16.8.5"
+    styled-components "4.1.3"
+
+test-lerna-input@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/test-lerna-input/-/test-lerna-input-1.2.2.tgz#d303f3cca50a34b6b5bba5a2825b337e58b08dbd"
+  integrity sha512-P1xypTx+INKzN6FeYnCP6s66tr8TIWDsOlyhBJhLCln6fVQi5MGEU4VRwXH/HAaov2awAsbRpyAgO/wAoi5aew==
+  dependencies:
+    react "16.8.5"
+    react-dom "16.8.5"
+    styled-components "4.1.3"
+
 text-extensions@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/text-extensions/-/text-extensions-2.0.0.tgz#43eabd1b495482fae4a2bf65e5f56c29f69220f6"
