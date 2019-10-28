@@ -14,6 +14,7 @@
             "babel-loader": "^8.0.6",
             "babel-plugin-styled-components": "^1.10.6",
             "lerna": "^3.16.4",
+            "lerna-update-wizard": "^0.16.0",
             "react": "^16.11.0",
             "react-dom": "^16.11.0",
             "styled-components": "^4.4.0",

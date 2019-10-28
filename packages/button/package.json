@@ -1,5 +1,5 @@
 {
-      "name": "button",
+      "name": "@testlerna/button",
       "version": "1.1.0",
       "main": "lib/index.js",
       "module": "src/index.js",
@@ -12,5 +12,6 @@
             "react": "^15.0.0 || ^16.0.0",
             "react-dom": "^15.0.0 || ^16.0.0",
             "styled-components": "^4.0.0"
-      }
+      },
+      "gitHead": "1f0c8b3d63c874ab03bac62ae66959642e3b21e2"
 }

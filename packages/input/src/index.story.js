@@ -4,5 +4,5 @@ import { storiesOf } from "@storybook/react";
 import Input from ".";
 
 storiesOf("Input", module).add("default", () => (
-      <Input placeholder="Yoyo World!" />
+      <Input placeholder="HiBye World!" />
 ));
